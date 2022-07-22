@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://demo.gethugothemes.com/meghna/examplesite/"
+baseURL = "https://iridescent-wisp-b42cf0.netlify.app"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
