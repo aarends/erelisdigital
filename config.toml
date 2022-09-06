@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://iridescent-wisp-b42cf0.netlify.app"
+baseURL = "https://erelis-site-master.netlify.app/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
@@ -42,62 +42,29 @@ link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "ABOUT"
 url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "SERVICES"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "PORTFOLIO"
 url = "#portfolio"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
-name = "blog"
+name = "BLOG"
 url = "#blog"
 weight = 6
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "CONTACT"
 url = "#contact"
 weight = 7
-
-
-[[Languages.en.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.en.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
 
 
 ################### French Navigation ########################
