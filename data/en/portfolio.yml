@@ -5,25 +5,25 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : We Welcome Wheelchairs LLC
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : images/portfolio/portfolio-16.jpg
+      image_webp : images/portfolio/portfolio-16.webp
       categories : ["web design"]
       content : Modern looking WordPress website with an appointment calendar.
       link : "https://www.wewelcomewheelchairs.com/"
       
     # portfolio item loop
     - name : Formacion di un Actor
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/portfolio-17.jpg
+      image_webp : images/portfolio/portfolio-17.webp
       categories : ["design"]
       content : A Book cover design to showcase design creativity.
       
     # portfolio item loop
     - name : Burleson Dog Home Services
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
+      image : images/portfolio/portfolio-18.jpg
+      image_webp : images/portfolio/portfolio-18.webp
       categories : ["design"]
-      content : A contact card design to showcase creativity.
+      content : A contact card design to showcase design creativity.
       link : "#"
       
     # portfolio item loop
