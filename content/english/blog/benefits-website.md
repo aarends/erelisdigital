@@ -1,9 +1,9 @@
 ---
-title: "Are You Doing the Right Wayey"
-date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
+title: "Benefits of owning a website"
+date: 2022-09-09T12:15:36+06:00
+image_webp: images/blog/blog-post-3.webp
+image: images/blog/blog-post-3.jpg
+author: Alan Arends
 description : "This is meta description"
 ---
 

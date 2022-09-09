@@ -1,5 +1,5 @@
 ---
-title: "Mark Dinn"
+title: "Karina Arends"
 image: ""
 email: "email2@example.org"
 social:
