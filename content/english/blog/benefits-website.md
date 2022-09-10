@@ -1,9 +1,9 @@
 ---
-title: "Simple Blog Post"
-date: 2018-09-12T12:52:36+06:00
+title: "Benefits of owning a website"
+date: 2022-09-09T12:15:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
-author: John Doe
+author: Alan Arends
 description : "This is meta description"
 ---
 
