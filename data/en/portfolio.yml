@@ -17,6 +17,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-17.webp
       categories : ["design"]
       content : A Book cover design to showcase design creativity.
+      link : "#"
       
     # portfolio item loop
     - name : Burleson Dog Home Services
