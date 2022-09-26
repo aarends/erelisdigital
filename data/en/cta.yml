@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/bg-white.jpg"
+  bg_image_webp : "images/backgrounds/bg-white.webp"
   title : "Great Design & Marketing Tool"
   content : "Get a personalized website for your business to increase your brand awareness, grow your business and increase your revenue."
   button:
