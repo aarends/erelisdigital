@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://erelis-site-master.netlify.app/"
-title = "Meghna"
+title = "Erelis Digital"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -110,7 +110,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_erelis.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Themefisher"
@@ -122,7 +122,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/logo_erelis.png"
 
 # cookies
 [params.cookies]
