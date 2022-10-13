@@ -1,5 +1,5 @@
 ---
-title: "Benefits of owning a website"
+title: "Top 5 reasons to own a website for your business"
 date: 2022-09-09T12:15:36+06:00
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
