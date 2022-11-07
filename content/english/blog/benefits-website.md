@@ -4,7 +4,7 @@ date: 2022-09-09T12:15:36+06:00
 image_webp: images/blog/blog-post-4.webp
 image: images/blog/blog-post-4.jpg
 author: Alan Arends
-description : "This is meta description"
+description : "Creating an online presence for your local business is essential to reach out for customers and make your business stand out from your competitors. Find 4 reasons why?"
 ---
 
 > ##### What is online presence? 
@@ -13,7 +13,7 @@ description : "This is meta description"
 In today's world many people are on the internet for different reason as to buying stuff, learning and socializing. This means having an online presence is vital for business owners.
 Just because a business exists and it has good product and service, doesn't mean they are going to make sales. They have to reach the potential customers for the product or service. That is marketing.
 
-Let see top 3 reasons how a local business owner of a Small to Midsize Business can benefit from having a personal website.
+Let see top 4 reasons how a local business owner of a Small to Midsize Business can benefit from having a personal website.
 
 ##### Why should you invest in a website for your business?
 
