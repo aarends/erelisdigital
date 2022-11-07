@@ -4,11 +4,11 @@ image: ""
 email: "erelisdigital@consultant.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
-  - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.facebook.com/alan.arends"
+  - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+    link : "https://www.linkedin.com/in/alanarends/"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/aarends"
 ---
 
-Freelancer web designer. 
+Freelancer web designer.
