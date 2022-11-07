@@ -1,8 +1,8 @@
 ---
 title: "Top 4 reasons for having an online presence for your small business"
 date: 2022-09-09T12:15:36+06:00
-image_webp: images/blog/blog-post-3.webp
-image: images/blog/blog-post-3.jpg
+image_webp: images/blog/blog-post-4.webp
+image: images/blog/blog-post-4.jpg
 author: Alan Arends
 description : "This is meta description"
 ---
@@ -15,7 +15,7 @@ Just because a business exists and it has good product and service, doesn't mean
 
 Let see top 3 reasons how a local business owner of a Small to Midsize Business can benefit from having a personal website.
 
-**Why should you invest in a website for your business?**
+##### Why should you invest in a website for your business?
 
 1. **Brand**
 The website is the place where people go first to learn about your product or service and to find information about your business. Just because your business doesn’t have a website doesn’t mean that it isn’t already online. There are review sites like Yelp or Trip Advisor that allow consumers to discuss their good and bad experiences with businesses. Owning a website gives you the opportunity to communicate your brand directly to your customers and build relationships.
@@ -38,7 +38,7 @@ When people search for any product or service, your website has a chance of show
 
 In addition, a website will allow you to reach even the international customers by breaking the geographical barriers. The more attention it gets the more sales opportunity arises.
 
-**Final Takeaway**
+##### Final Takeaway
 Does your business need a website? I hope you can answer that for yourself now.
 Small to Midsize Businesses have so many compelling reasons to create an online presence.
 
