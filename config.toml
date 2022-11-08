@@ -112,7 +112,7 @@ weight = 8
 [params]
 logo = "images/logo_erelis.png"
 # Meta data
-description = "Market your business with a modern looking and mobile friendly website using the latest digital marketing technology"
+description = "Market your business with a modern looking and mobile friendly website using the latest digital marketing technology."
 author = "Alan Arends"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -140,15 +140,15 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/erelisdigital"
 
-[[params.social]]
-icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/alanarends/"
 
 #[[params.social]]
 #icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons

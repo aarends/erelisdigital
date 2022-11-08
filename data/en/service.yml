@@ -11,7 +11,7 @@ service:
     # service item loop
     - name : SEO
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : A Search Engine Optimization (SEO) campaign will improve your website rankings over a period of time to attract organic (unpaid) visitors from search engines.as Google.
+      content : A Search Engine Optimization (SEO) campaign will improve your website rankings over a period of time to attract organic (unpaid) visitors from search engines such as Google.
       
     # service item loop
     - name : PPC
