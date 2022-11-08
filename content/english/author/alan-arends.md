@@ -5,7 +5,7 @@ image: images/profile/profile-2-aarends.jpg
 email: "erelisdigital@consultant.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "https://www.facebook.com/alan.arends"
+    link : "https://www.facebook.com/erelisdigital"
   - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.linkedin.com/in/alanarends/"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
