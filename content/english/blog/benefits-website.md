@@ -4,7 +4,7 @@ date: 2022-11-08T12:15:36+06:00
 image_webp: images/blog/blog-post-4.webp
 image: images/blog/blog-post-4.jpg
 author: Alan Arends
-description : "Creating an online presence for your local business is essential to reach out for customers and make your business stand out from your competitors. Find 4 reasons why?"
+description : "Creating an online presence for your local business is essential to reach out to customers and make your business stand out from your competitors. Find 4 reasons why."
 ---
 
 > ##### What is an online presence? 

@@ -112,7 +112,7 @@ weight = 8
 [params]
 logo = "images/logo_erelis.png"
 # Meta data
-description = "Market your business with a modern looking and mobile friendly website using the latest digital marketing technology"
+description = "Market your business with a modern looking and mobile friendly website using the latest digital marketing technology."
 author = "Alan Arends"
 # Google Analytics
 google_analytics_id = "" # Your ID
