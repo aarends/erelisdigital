@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://erelis-site-master.netlify.app/"
+baseURL = "https://www.erelisdigital.com/"
 title = "Erelis Digital"
 theme = "meghna-hugo"
 # post pagination
