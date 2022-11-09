@@ -4,7 +4,7 @@ service:
   title : Services Offered
   service_item :
     # service item loop
-    - name : Web Design or Redesign
+    - name : Web Design
       icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       content : Create or redesign a modern looking website tailored to your needs and budget to support your digital growth strategy. The website will be mobile friendly and structured for SEO optimization.
       

@@ -8,7 +8,7 @@ description : "Creating an online presence for your local business is essential 
 ---
 
 > ##### What is online presence? 
-> An online presence for a business is the business website, social profiles, online memberships in directories, and other places on the Internet where customers and potential customers can find you. It is the collective sum of all identities you have created on the Internet.
+> An [online presence](https://www.crowdspring.com/blog/small-business-online-presence-getting-started-website/) for a business is the business website, social profiles, online memberships in directories, and other places on the Internet where customers and potential customers can find you. It is the collective sum of all identities you have created on the Internet.
 
 In today's world many people are on the internet for different reason as to buying stuff, learning and socializing. This means having an online presence is vital for business owners.
 Just because a business exists and it has good product and service, doesn't mean they are going to make sales. They have to reach the potential customers for the product or service. That is marketing.
