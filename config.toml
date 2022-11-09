@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.erelisdigital.com/"
+baseURL = "https://www.erelisdigital.com"
 title = "Erelis Digital"
 theme = "meghna-hugo"
 # post pagination
