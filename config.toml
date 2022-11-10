@@ -114,6 +114,10 @@ logo = "images/logo_erelis.png"
 # Meta data
 description = "Market your business with a modern looking and mobile friendly website using the latest digital marketing technology."
 author = "Alan Arends"
+# Google Tag Manager
+gtm_id = "GTM-KCD8G23"
+gtm_datalayer = "basic"
+gtm_endpoint = ""
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
