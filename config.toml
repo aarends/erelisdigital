@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://www.erelisdigital.com"
-title = "Erelis Digital"
+title = "Erelis Digital Marketing & Web Design"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -132,7 +132,7 @@ preloader = "images/logo_erelis.png"
 
 # cookies
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 
 # google map
