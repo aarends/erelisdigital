@@ -8,8 +8,8 @@ social:
     link : "https://www.facebook.com/erelisdigital"
   - icon : "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.linkedin.com/in/alanarends/"
-  - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "https://github.com/aarends"
+ # - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
+ #   link : "https://github.com/aarends"
 ---
 
 Alan Arends is a web designer with more than 15 years experience in the Information Technology Industry.
