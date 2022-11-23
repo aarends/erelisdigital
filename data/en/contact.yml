@@ -23,7 +23,7 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "https://getform.io/f/ab6e0387-22b0-40d1-ba24-6604c9ace0aa" #contact form works with https://formspree.io
+    #form_action : "https://getform.io/f/ab6e0387-22b0-40d1-ba24-6604c9ace0aa" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
     subject : "Subject"
