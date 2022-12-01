@@ -176,7 +176,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2022 Erelis Digital Marketing & Web Design | [PRIVACY POLICY](https://www.privacypolicytemplate.net/live.php?token=w2pTPJlCNiZo76FeWZswjGN4M8WOptcA)"
+copyright = "Copyright &copy; 2022 Erelis Digital Marketing & Web Design | [PRIVACY POLICY](https://www.erelisdigital.com/privacy-policy)"
 
 ################################ France Language ########################
 [Languages.fr]
