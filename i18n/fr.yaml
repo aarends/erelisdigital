@@ -26,5 +26,7 @@
   translation: Blog
 - id: contact
   translation: Contact
+- id: privacyPolicy
+  translation: Charte de confidentialité
 - id: themefisher
   translation: Themefisher
