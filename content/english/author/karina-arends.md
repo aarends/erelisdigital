@@ -9,6 +9,7 @@ social:
     link : "#"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
     link : "#"
+draft : true
 ---
 
 Karina Arends is a freelancer translator
