@@ -9,7 +9,7 @@ description : "Creating an online presence for your local business is essential 
 
 > ##### What is online presence?
 >
-> An [online presence](https://www.crowdspring.com/blog/small-business-online-presence-getting-started-website/) for a business is the business website, social profiles, online memberships in directories, and other places on the Internet where customers and potential customers can find you. It is the collective sum of all identities you have created on the Internet.
+> An {{< a_blank title="online presence" url="https://www.crowdspring.com/blog/small-business-online-presence-getting-started-website/" >}} for a business is the business website, social profiles, online memberships in directories, and other places on the Internet where customers and potential customers can find you. It is the collective sum of all identities you have created on the Internet.
 
 In today's world many people are on the internet for different reason as to buying stuff, learning and socializing. This means having an online presence is vital for business owners.
 Just because a business exists and it has good product and service, doesn't mean they are going to make sales. They have to reach the potential customers for the product or service. That is marketing.
@@ -24,14 +24,14 @@ Let's see top 4 reasons why a local business owner of a Small to Midsize Busines
 
 2. **Credibility and trust**
 
-    ![A website is like a virtual business card for a company.](/images/blog/blog-post-trust-website.jpg "A website creates trust")
+    {{< c_image image= "/images/blog/blog-post-trust-website.webp" alt= "A website creates trust" >}}
 
     Credibility in business makes a company's reputation. One way to create trust with your potential customers and increase your business credibility is to own a website. A website is like a virtual business card for a company.
-    A survey conducted by [Verisign](https://blog.verisign.com/domain-names/why-small-businesses-say-having-a-website-is-important/) shows that globally 72 percent of today’s consumers think a website makes your business out as being more credible than companies who only have and use social media profiles.
+    A survey conducted by {{< a_blank title="Verisign" url="https://blog.verisign.com/domain-names/why-small-businesses-say-having-a-website-is-important/" >}} shows that globally 72 percent of today’s consumers think a website makes your business out as being more credible than companies who only have and use social media profiles.
 
 3. **Expand Your Working Hours**
 
-    ![A website will promote your business 24/7.](/images/blog/blog-post-24h-website-service.jpg "A website expands working hours")
+    {{< c_image image= "/images/blog/blog-post-24h-website-service.webp" alt= "A website expands working hours" >}}
 
     There is a saying "If you want to make money while you sleep, build a system that doesn't sleep." A website is the online home base of your business and it will promote your business 24 hours a day and seven days a week. A website can help you find potential customers and increase sales even though you are not available.
 
@@ -39,7 +39,7 @@ Let's see top 4 reasons why a local business owner of a Small to Midsize Busines
 
 4. **Attract new customers through Google**
 
-    According to online reviews statistics and [ReviewTrackers](https://www.reviewtrackers.com/reports/online-reviews-survey/) data, 63.6% of consumers say they are likely to check Google reviews (through Google Maps and Search) before visiting a business location.
+    According to online reviews statistics and {{< a_blank title="ReviewTrackers" url="https://www.reviewtrackers.com/reports/online-reviews-survey/" >}} data, 63.6% of consumers say they are likely to check Google reviews (through Google Maps and Search) before visiting a business location.
 
     By having an optimized Search Engine Optimization (SEO) website, you have a good chance of appearing on the first page of Google's search result.
 
