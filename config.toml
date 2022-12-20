@@ -148,9 +148,9 @@ map_marker = "images/marker.png"
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/erelisdigital"
 
-#[[params.social]]
-#icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
-#link = "#"
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/invites/contact/?i=v3ir308kawub&utm_content=pwfsewb"
 
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
