@@ -176,7 +176,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; {{< year >}} Erelis Digital Marketing & Web Design | [PRIVACY POLICY](https://www.erelisdigital.com/privacy-policy)"
+copyright = "Copyright &copy; {{< year >}} Erelis Digital Marketing & Web Design | [PRIVACY POLICY](https://www.erelisdigital.com/privacy-policy) | KvK H54621.0" 
 
 ################################ France Language ########################
 [Languages.fr]
