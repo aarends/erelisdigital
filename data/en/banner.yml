@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area-eagle.webp"
   bg_image : "images/backgrounds/hero-area-eagle.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Market your business"
-  content : "Appealing Website Design for your business!"
+  title : "Market and grow your business"
+  content : "Appealing and Mobile-Friendly Website Design for Your Local Business in Aruba, Utilizing Advanced Digital Marketing Technology to Promote Your Brand, Reach More Potential Clients and Increase Your Revenue!"
   button:
     enable : true
-    label : "Explore"
+    label : "Explore Services Offered"
     link : "#services"

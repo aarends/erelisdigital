@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy | Erelis Digital Marketing & Web Design"
 date: 2022-11-28T13:37:57-04:00
 description: "Privacy Policy of the website Erelis Digital Marketing & Web Design"
 draft: false
